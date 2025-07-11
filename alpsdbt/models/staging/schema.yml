@@ -3,6 +3,13 @@ version: 2
 sources:
   - name: raw_data
     schema: raw_data
+    tables: 
+      - name: Perimetre_economique
+version: 2
+
+sources:
+  - name: raw_data
+    schema: raw_data
     tables:
       - name: Entreprises_Fillieres
       - name : deveco
