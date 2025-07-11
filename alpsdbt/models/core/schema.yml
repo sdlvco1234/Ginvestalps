@@ -1,0 +1,8 @@
+version: 3
+
+sources:
+  - name: dwh_staging
+    schema: dwh_staging
+    tables: 
+      - name: Perimetre_economique
+      - name:
