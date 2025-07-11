@@ -1,0 +1,9 @@
+version: 3
+
+sources:
+  - name: dwh__staging
+    schema: dwh__staging
+    tables:
+      - name: stg_fillieres
+      
+    

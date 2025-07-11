@@ -5,6 +5,7 @@ sources:
     schema: raw_data
     tables:
       - name: Entreprises_Fillieres
+      - name : deveco
     
 
 
